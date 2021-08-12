@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.Trench_coat_Insanity.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\PerforceProjects\FG20FT_GP2_Team9\FG20FT_GP2_Team9\Trench_coat_Insanity\.idea\.idea.Trench_coat_Insanity\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

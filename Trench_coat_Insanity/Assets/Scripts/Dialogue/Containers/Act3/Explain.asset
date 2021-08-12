@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff3b0f024a248904cbfaf377446aac9f, type: 3}
+  m_Name: Explain
+  m_EditorClassIdentifier: 
+  text:
+  - Alright Warden, start talking.
+  - I'm here to help you Vincent, we've kept you here for your own safety. And for
+    the safety of others. You've hurt people.
+  - I've been on the square Warden, I only gave the third to get a couple of goons
+    to sing.
+  - I understand Vincent, we'll sort this out, I just need you to relax.
+  - 
+  voiceLines:
+  - {fileID: 8300000, guid: 73ba11b7bb3c53c42a81155ae23eb570, type: 3}
+  - {fileID: 8300000, guid: e3b462361808d094b85c2877489fd19e, type: 3}
+  - {fileID: 8300000, guid: 121bec34cd05f5b4aaa4715f911f0696, type: 3}
+  - {fileID: 8300000, guid: 5c54c01af9ebe9049acd74e166bea656, type: 3}
+  - {fileID: 0}
+  personSpeaking: 0100000003000000010000000300000004000000
+  choice0: {fileID: 11400000, guid: a66c266b18250cf4a9976cadbac883ee, type: 2}
+  choice1: {fileID: 11400000, guid: 17fb4d71d6a61a548a676265908bbafc, type: 2}
+  choice0text: Inquire About Debra Again.
+  choice1text: Pull Out the Gun
+  doSwitchScene: 0
+  sceneToSwitchTo: 0

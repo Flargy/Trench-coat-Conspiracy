@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85366622b3b80b34293a57dba62ed682, type: 3}
+  m_Name: InspectionTest
+  m_EditorClassIdentifier: 
+  displayName: inspection
+  displayIcon: {fileID: 0}
+  displayInformation: click to inspect
+  isKey: 0
+  combinesWithItem: {fileID: 0}
+  combineResultItem: {fileID: 0}
+  itemPrefab: {fileID: 6412310679651899658, guid: 815b6dd15c54ee94c8b14e2530772df8, type: 3}
+  clueNormal: {x: 0, y: 0, z: 1}

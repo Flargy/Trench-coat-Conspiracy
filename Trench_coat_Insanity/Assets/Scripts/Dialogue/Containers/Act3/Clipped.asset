@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff3b0f024a248904cbfaf377446aac9f, type: 3}
+  m_Name: Clipped
+  m_EditorClassIdentifier: 
+  text:
+  - Sorry Warden, but I can't take no as an answer.
+  - You shot me!
+  - And I'll plug you again if you don't start singing now, buster.
+  - Okay okay, here's your file with her information, please don't kill me.
+  - Thanks for tipping your mitt, now don't call the coppers.
+  voiceLines:
+  - {fileID: 8300000, guid: 6ac5cafcdf383b648a8af445fdf8bf18, type: 3}
+  - {fileID: 8300000, guid: 8029194857dea474dbbc312bd4a228d4, type: 3}
+  - {fileID: 8300000, guid: 409483f6870354b47b02110da0cfb691, type: 3}
+  - {fileID: 8300000, guid: 3f8a5737fdabac2409951a1b3662ee74, type: 3}
+  - {fileID: 8300000, guid: 7b4dee2e16882d941bed59ba69bda51e, type: 3}
+  personSpeaking: 0100000003000000010000000300000001000000
+  choice0: {fileID: 0}
+  choice1: {fileID: 0}
+  choice0text: 
+  choice1text: 
+  doSwitchScene: 1
+  sceneToSwitchTo: 4

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff3b0f024a248904cbfaf377446aac9f, type: 3}
+  m_Name: 3 Where D
+  m_EditorClassIdentifier: 
+  text:
+  - Where is Debra?
+  - You know I can't say.
+  - 
+  voiceLines:
+  - {fileID: 8300000, guid: 216920110eaac284b8707d3a9fe4ba70, type: 3}
+  - {fileID: 8300000, guid: 3da718c86df20b944a747b5746243419, type: 3}
+  - {fileID: 0}
+  personSpeaking: 010000000300000004000000
+  choice0: {fileID: 11400000, guid: 17fb4d71d6a61a548a676265908bbafc, type: 2}
+  choice1: {fileID: 11400000, guid: 79027e0cbc203034b8edd0251d933898, type: 2}
+  choice0text: Intimidate
+  choice1text: Threaten
+  doSwitchScene: 0
+  sceneToSwitchTo: 0

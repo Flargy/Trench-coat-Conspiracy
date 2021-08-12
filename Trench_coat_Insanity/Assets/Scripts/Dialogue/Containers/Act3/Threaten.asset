@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff3b0f024a248904cbfaf377446aac9f, type: 3}
+  m_Name: Threaten
+  m_EditorClassIdentifier: 
+  text:
+  - If you don't tell me where my wife is, then I'll have to track down another bull
+    who'll yap.
+  - This isn't like you Vincent.
+  - I'll serve another dime if I have to Warden.
+  - Fine, I'll tell you if you promise not to hurt anyone.
+  - I swear.
+  - Here is your file, you'll find her information there.
+  - Thanks for tipping your mitt, now don't call copper.
+  voiceLines:
+  - {fileID: 8300000, guid: bc795e7260894c74f82b77e3ef117a6d, type: 3}
+  - {fileID: 8300000, guid: e502b5524175a5d4480ec45c33059339, type: 3}
+  - {fileID: 8300000, guid: 32ceac13e4991ec4fbe1e94489e22092, type: 3}
+  - {fileID: 8300000, guid: 5530b748291911842a57e8b923ee4fce, type: 3}
+  - {fileID: 8300000, guid: a9f079067458a0642a9649715ec650de, type: 3}
+  - {fileID: 8300000, guid: 76bde79c47f2d934d8e641e542827ea2, type: 3}
+  - {fileID: 8300000, guid: 33ea1aadb44f0dd4b8666f4cd4f30882, type: 3}
+  personSpeaking: 01000000030000000100000003000000010000000300000001000000
+  choice0: {fileID: 0}
+  choice1: {fileID: 0}
+  choice0text: 
+  choice1text: 
+  doSwitchScene: 1
+  sceneToSwitchTo: 4

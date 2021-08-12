@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff3b0f024a248904cbfaf377446aac9f, type: 3}
+  m_Name: 1 Where D
+  m_EditorClassIdentifier: 
+  text:
+  - Where is Debra?
+  - Vincent, please, sit down for a second and let me explain.
+  - 
+  voiceLines:
+  - {fileID: 8300000, guid: 322de8ad97709cc48a802e3fb4ab5778, type: 3}
+  - {fileID: 8300000, guid: 229e6794bc443c84284499b174893fea, type: 3}
+  - {fileID: 0}
+  personSpeaking: 010000000300000004000000
+  choice0: {fileID: 11400000, guid: ae67b4ca8788bc441a3f3ab5d78a3abb, type: 2}
+  choice1: {fileID: 11400000, guid: a66c266b18250cf4a9976cadbac883ee, type: 2}
+  choice0text: Let Him Explain
+  choice1text: Inquire About Debra Again
+  doSwitchScene: 0
+  sceneToSwitchTo: 0
